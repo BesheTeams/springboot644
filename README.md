@@ -12,3 +12,8 @@
 springboot644高校学生饮食推荐系统
 ![image](https://github.com/user-attachments/assets/4a5b727d-f1ed-4c0b-9a14-63ac848f888f)
 ![image](https://github.com/user-attachments/assets/bdf6d526-9853-4a89-86d3-e98e5c6430d3)
+![image](https://github.com/user-attachments/assets/7157f72c-c3b9-41c5-bf44-93e3740cf289)
+![image](https://github.com/user-attachments/assets/d6cad687-0f77-4bfd-9db1-5b30d1e1c0ab)
+![image](https://github.com/user-attachments/assets/3779d367-b647-4dd4-aeb8-c67735e300e3)
+![image](https://github.com/user-attachments/assets/810276c4-99d2-4b6d-bc4c-ef8a0563c6b6)
+![image](https://github.com/user-attachments/assets/cb48175b-fc40-4204-92d2-c88ea23d5f11)
